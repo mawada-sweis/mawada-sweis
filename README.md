@@ -15,19 +15,20 @@
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
   </a>  
 </div>  
+<br/>
 
-<br/> 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mawada-sweis&rank=-C,-B" alt="mawada-sweis" />
+  </a> 
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=mawada-sweis&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mawada-sweis&&style=flat-square"/>
 
 - 🔭 I’m currently working on [Smart task management system](https://github.com/mawada-sweis/Task-Management)
-
 - 👯 Proud of the machine learning project [Predict car price](https://github.com/mawada-sweis/Predict-Car-Price-)  
-
 - 🌱 I’m currently learning Power BI, Docker, and other tools.  
-  
 - 💬 Ask me about Machine learning, Data science, and Project management.  
-  
 
 <br/>  
 
